@@ -1,2 +1,2 @@
 # Form-Handling
-Form Hanling With HTML, CSS &amp; Vanilla JS
+Form Handling With HTML, CSS &amp; Vanilla JS
